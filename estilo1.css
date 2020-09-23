@@ -1,0 +1,56 @@
+body{
+	font-family: 'Fira Sans', sans-serif;
+}
+
+header nav ul {
+	list-style: none;
+	padding-left: 130px;
+}
+header nav ul li {
+	display: inline-block;
+	margin-right: 55px;
+}
+header nav ul li {
+	font-size: 15px;
+	color: #000;
+	text-decoration: none;
+}
+nav ul li a{
+	color: #000;
+}
+p a{
+	color:#000;
+}
+#p1{
+	width:960px;
+	margin: auto;
+	padding: 10px 20px;
+}
+#p2{
+	float: center;
+}
+#p3{
+	float: center;
+}
+p{
+	font-size: 16px;
+	font-family: 'Fira Sans', sans-serif;
+}
+.o1{
+	float: left;
+	width: 200px;
+	margin: 10px;
+	margin-bottom: 10px;
+}
+.o2{
+	float: right;
+	width: 200px;
+	margin: 10px;
+	margin-bottom: 10px;
+}
+#principal2{
+	    width: 960px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+}

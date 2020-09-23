@@ -1,0 +1,47 @@
+body{
+	font-family: 'Fira Sans', sans-serif;
+}
+#p1{
+	width:960px;
+	margin: auto;
+	padding: 10px 20px;
+}
+header nav ul {
+	list-style: none;
+	padding-left: 130px;
+}
+header nav ul li {
+	display: inline-block;
+	margin-right: 55px;
+}
+header nav ul li {
+	font-size: 15px;
+	color: #000;
+	text-decoration: none;
+}
+nav ul li a{
+	color: #000;
+}
+h1{
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	text-shadow: 1px  black;
+	font-size: 30px;
+	text-align: center;
+}
+form{
+	font-family: 'Fira Sans', sans-serif;
+}
+.o2{
+	display: block;
+}
+textarea{
+	width: 300px;
+	height: 80px;
+}
+#principal3{
+    width: 960px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
